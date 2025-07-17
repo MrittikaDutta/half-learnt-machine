@@ -1,0 +1,7 @@
+SubjectID,SubjectName,ApproxTimeHours,CurrentProgressPercentage,StartDate,ApproxEndDate
+1,Mathematics,100,30,2024-01-10,2024-04-10
+2,Physics,120,20,2024-01-10,2024-04-30
+3,Chemistry,90,50,2024-01-15,2024-04-05
+4,Biology,80,40,2024-01-20,2024-04-01
+5,English Literature,110,25,2024-01-25,2024-04-25
+6,World History,70,60,2024-02-01,2024-03-30
